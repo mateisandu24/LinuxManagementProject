@@ -1,6 +1,6 @@
 # User Management System in Bash (Linux)
 
-This project is a simple user management system written in **Bash scripting** for Linux. It was created as part of the **Operating Systems** course in the **2nd year, 1st semester**, for the **Economic Informatics** specialization at **CSIE (Faculty of Cybernetics, Statistics and Economic Informatics)**.
+This project is a simple user management system written in **Bash scripting** for Linux. It was created as part of the **Operating Systems** course in the **1st year, 2nd semester**, for the **Computer Science** specialization at **CSIE (Faculty of Cybernetics, Statistics and Economic Informatics)**.
 
 ## 📋 Features
 
